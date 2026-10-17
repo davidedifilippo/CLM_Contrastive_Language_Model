@@ -96,3 +96,26 @@ python benchmark_m4_real.py
 - **Architettura CLM originale:** Stanford University & NVIDIA ([Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)).
 - **Modello Encoder:** Alibaba Cloud `Qwen/Qwen3-8B`.
 - **Implementazione Benchmark & Real-Time Bird Player:** Ing. Davide Di Filippo.
+
+---
+
+## ⚖️ Licenza e Disclaimer (License & Disclaimer)
+
+Questo progetto è rilasciato sotto licenza [Apache 2.0](LICENSE).
+
+### Disclaimer
+```text
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+
+> **Nota:** Questo software è fornito esclusivamente a scopo di ricerca, studio e benchmark prestazionale sperimentale. L'autore non si assume alcuna responsabilità per utilizzi al di fuori di tali scopi.
+
